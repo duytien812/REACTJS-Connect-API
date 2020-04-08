@@ -27,6 +27,9 @@ III. DANH SÁCH BÀI HỌC
 86. Connect API : Xây Dựng Giao Diện
 	- Xây dựng giao diện danh sách sản phẩm đơn giản
 87. Connect API : Phân Chia Component
+	- Tách giao diện thành các Component
+88. Connect API : Tích Hợp React-Router P1
+	- Viết Router cho trang Home, NotFoundPage
 
 
 
