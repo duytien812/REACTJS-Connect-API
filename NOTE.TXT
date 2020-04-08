@@ -30,6 +30,11 @@ III. DANH SÁCH BÀI HỌC
 	- Tách giao diện thành các Component
 88. Connect API : Tích Hợp React-Router P1
 	- Viết Router cho trang Home, NotFoundPage
+89. Connect API : Tích Hợp React-Router P2
+	- Viết Router cho trang Danh Sách Sản Phẩm (ProductListPage -> ProductList -> ProductItem)
+	- Viết Router cho trang Thêm và sửa (ProductActionPage)
+	 + Link Thêm: product/add
+	 + Link Sửa: product/id/edit  ->  product/1/edit 
 
 
 
