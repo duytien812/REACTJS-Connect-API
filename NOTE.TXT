@@ -26,7 +26,7 @@ III. DANH SÁCH BÀI HỌC
 ==> 81-85: xem video hướng dẫn
 86. Connect API : Xây Dựng Giao Diện
 	- Xây dựng giao diện danh sách sản phẩm đơn giản
-
+87. Connect API : Phân Chia Component
 
 
 
