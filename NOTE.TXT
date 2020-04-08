@@ -1,0 +1,31 @@
+﻿REACTJS-React-Project2
+
+I. THÔNG TIN
+- Quản Lý Công Việc (Dựng Connect API)
+- https://www.youtube.com/watch?v=494HPoUmqdI&list=PLJ5qtRQovuEOoKffoCBzTfvzMTTORnoyp&index=86
+- Xuất bản: 19-11-2017
+
+II. Thư viện
+- Bootstrap 3 online
+"dependencies": {
+   "react": "^16.13.1",
+   "react-dom": "^16.13.1",
+   "react-redux": "^7.2.0",
+   "react-router-dom": "^5.1.2",
+   "react-scripts": "3.4.1",
+   "redux": "^4.0.5"
+}
+
+III. DANH SÁCH BÀI HỌC
+81-105:
+81. Connect API : Giới Thiệu Sơ Lược
+82. Connect API : Giả Lập API với Mock API
+83. Connect API : Test API với Postman
+84. Connect API : Giả Lập API với Json Server
+85. Connect API : 1 Số Chức Năng Cơ Bản
+==> 81-85: xem video hướng dẫn
+86. Connect API : Xây Dựng Giao Diện
+
+
+
+
