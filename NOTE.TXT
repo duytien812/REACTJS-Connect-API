@@ -25,6 +25,7 @@ III. DANH SÁCH BÀI HỌC
 85. Connect API : 1 Số Chức Năng Cơ Bản
 ==> 81-85: xem video hướng dẫn
 86. Connect API : Xây Dựng Giao Diện
+	- Xây dựng giao diện danh sách sản phẩm đơn giản
 
 
 
