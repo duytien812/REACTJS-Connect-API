@@ -35,6 +35,28 @@ III. DANH SÁCH BÀI HỌC
 	- Viết Router cho trang Thêm và sửa (ProductActionPage)
 	 + Link Thêm: product/add
 	 + Link Sửa: product/id/edit  ->  product/1/edit 
+90. Connect API : Tích Hợp React-Router P3
+	- Gắn link và Active cho menu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
