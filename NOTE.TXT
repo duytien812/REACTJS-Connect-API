@@ -37,7 +37,7 @@ III. DANH SÁCH BÀI HỌC
 	 + Link Sửa: product/id/edit  ->  product/1/edit 
 90. Connect API : Tích Hợp React-Router P3
 	- Gắn link và Active cho menu
-
+91. Connect API : Tích Hợp Redux
 
 
 
