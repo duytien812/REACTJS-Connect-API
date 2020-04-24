@@ -42,8 +42,8 @@ III. DANH SÁCH BÀI HỌC
 	- Import thư viện Axios gọi API
 	- Sử dụng Json Server để giả lập API (xem lại bài 84: https://www.youtube.com/watch?v=kVOn3jc1W4I&list=PLJ5qtRQovuEOoKffoCBzTfvzMTTORnoyp&index=84)
 	- Chưa load ra được sản phẩm do chạy bất đồng bộ (render chạy 1s, call API gọi mất 5s)
-
-
+93. Connect API : Tách Axios Xử Lý Chung
+	- Tách file và viết hàm call API chung
 
 
 
